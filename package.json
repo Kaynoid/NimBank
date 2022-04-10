@@ -1,0 +1,29 @@
+{
+  "name": "nimbank",
+  "version": "1.0.0",
+  "description": "Quick, Simple and Nimble Web based Banking Service!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaynoid/nimbank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaynoid/nimbank/issues"
+  },
+  "homepage": "https://github.com/Kaynoid/nimbank#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
